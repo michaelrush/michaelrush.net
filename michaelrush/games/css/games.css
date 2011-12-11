@@ -1,0 +1,76 @@
+.panel 
+{
+	overflow: auto;
+	clear: both;
+  width: 600px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.panel .panelLeft
+{
+	width: 100px;
+	float: left;
+}
+
+.panel .panelLeft img
+{
+	margin-top: 5px;
+  margin-left: 7px;
+}
+
+.panel .panelText
+{
+  width: 500px;
+  float: left;
+}
+
+.panel .panelText h1
+{
+	margin: 0px;
+  color: #000;
+  font-size: 20px;
+}
+
+.panel .panelText a
+{
+  
+}
+
+.details
+{
+	float: right;
+  width: 350px;	
+  background: #d0d0d0;
+}
+
+.details ul,
+.details ul li
+{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+}
+
+.details > ul > li
+{
+	overflow: auto;
+  margin-top: 10px;
+}
+
+.details ul li section
+{
+  float: left;
+}
+
+.details ul li section:first-of-type
+{
+  width: 90px;
+}
+
+.details ul li section:last-of-type
+{
+  width: 300px;
+}

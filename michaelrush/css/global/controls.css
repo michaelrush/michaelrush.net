@@ -1,0 +1,158 @@
+.navWrap
+{
+	clear: both;
+	position: relative;	
+	width: 380px;
+	height: 20px;
+}
+
+.navWrap > a
+{
+	position: absolute;	
+}
+
+.preview {
+  width: 600px;
+  height: 470px;
+  float: left;
+}
+/*
+	root element for the scrollable.
+	when scrolling occurs this element stays still.
+*/
+.scrollable {
+
+	/* required settings */
+	position:relative;
+	overflow:hidden;
+	width: 600px;
+	height: 470px;
+  float: left;
+}
+
+/*
+	root element for scrollable items. Must be absolutely positioned
+	and it should have a extremely large width to accommodate scrollable items.
+	it's enough that you set width and height for the root element and
+	not for this element.
+*/
+.scrollable .items {
+	/* this cannot be too large */
+	width:20000em;
+	position:absolute;
+}
+
+/*
+	a single item. must be floated in horizontal scrolling.
+	typically, this element is the one that *you* will style
+	the most.
+*/
+.items section {
+	float:left;
+	width: 600px;
+	height: 470px;
+}
+
+.items section img {
+	max-width: 600px;
+}
+
+/* position and dimensions of the navigator */
+.navi {
+	margin-left:168px;
+	width:200px;
+	height:20px;
+  float: left;
+}
+
+
+/* items inside navigator */
+.navi a {
+	width:8px;
+	height:8px;
+	float:left;    
+	margin: 7px 3px 3px;
+	background:url(../../img/controls/navigator.png) 0 0 no-repeat;
+	display:block;
+	font-size:1px;
+}
+
+/* mouseover state */
+.navi a:hover {
+	background-position:0 -8px;      
+}
+
+/* active state (current page state) */
+.navi a.active {
+	background-position:0 -16px;     
+}
+
+
+.navWrap a.browse {
+    background: url("../../img/controls/hori.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 1px;
+    height: 20px;
+    width: 20px;
+}
+
+.navWrap a.right {
+    background-position: 0 -20px;
+    clear: right;
+    margin-right: 0;
+	right: 113px;
+}
+
+.navWrap a.right:hover {
+    background-position: -20px -20px;
+}
+
+.navWrap a.right:active {
+    background-position: -40px -20px;
+}
+
+.navWrap a.left {
+	left: 138px;
+    margin-left: 0;
+}
+
+.navWrap a.left:hover {
+    background-position: -20px 0;
+}
+
+.navWrap a.left:active {
+    background-position: -40px 0;
+}
+
+.navWrap a.up, a.down {
+    background: url("../../img/controls/hori.png") no-repeat scroll 0 0 transparent;
+    float: none;
+    margin: 10px 50px;
+}
+
+.navWrap a.up:hover {
+    background-position: -20px 0;
+}
+
+.navWrap a.up:active {
+    background-position: -40px 0;
+}
+
+.navWrap a.down {
+    background-position: 0 -20px;
+}
+
+.navWrap a.down:hover {
+    background-position: -20px -20px;
+}
+
+.navWrap a.down:active {
+    background-position: -40px -20px;
+}
+
+.navWrap a.disabled {
+    visibility: hidden !important;
+}
+
