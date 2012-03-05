@@ -1,0 +1,135 @@
+[08-Jul-2010 13:51:36] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:52:07] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:53:07] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:53:10] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:53:14] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:53:49] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:54:46] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:54:47] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 13:58:28] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 14:00:48] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 14:03:00] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 14:03:05] PHP Parse error:  syntax error, unexpected ';' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 14:07:41] PHP Parse error:  syntax error, unexpected ')' in /home/michaelr/public_html/RSA.php on line 2
+[08-Jul-2010 14:13:39] PHP Fatal error:  Call to undefined function length() in /home/michaelr/public_html/RSA.php on line 3
+[08-Jul-2010 14:13:43] PHP Fatal error:  Call to undefined function length() in /home/michaelr/public_html/RSA.php on line 3
+[08-Jul-2010 14:49:43] PHP Parse error:  syntax error, unexpected '(' in /home/michaelr/public_html/RSA.php on line 20
+[08-Jul-2010 14:55:11] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955537 bytes) in /home/michaelr/public_html/RSA.php on line 20
+[08-Jul-2010 14:56:14] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955537 bytes) in /home/michaelr/public_html/RSA.php on line 20
+[08-Jul-2010 14:57:57] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 20
+[08-Jul-2010 14:59:54] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 21
+[08-Jul-2010 15:32:35] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 21
+[08-Jul-2010 15:33:59] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 20
+[08-Jul-2010 15:34:36] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 20
+[08-Jul-2010 15:34:38] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 21
+[08-Jul-2010 15:35:12] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/michaelr/public_html/RSA.php on line 20
+[09-Jul-2010 15:36:40] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955537 bytes) in /home/michaelr/public_html/RSA.php on line 14
+[09-Jul-2010 15:36:40] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955537 bytes) in /home/michaelr/public_html/RSA.php on line 14
+[09-Jul-2010 15:36:46] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955537 bytes) in /home/michaelr/public_html/RSA.php on line 14
+[09-Jul-2010 15:37:10] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955537 bytes) in /home/michaelr/public_html/RSA.php on line 14
+[09-Jul-2010 15:37:54] PHP Parse error:  syntax error, unexpected '{' in /home/michaelr/public_html/RSA.php on line 25
+[09-Jul-2010 15:47:27] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/michaelr/public_html/RSA.php on line 26
+[02-Aug-2010 13:24:31] PHP Warning:  require_once(../private/mysql_connect.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/classes/RSS.class.php on line 7
+[02-Aug-2010 13:24:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../private/mysql_connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/classes/RSS.class.php on line 7
+[02-Aug-2010 13:30:32] PHP Warning:  require_once(../private/mysql_connect.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/classes/RSS.class.php on line 7
+[02-Aug-2010 13:30:32] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../private/mysql_connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/classes/RSS.class.php on line 7
+[02-Aug-2010 13:47:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/michaelr/public_html/classes/RSS.class.php on line 27
+[02-Aug-2010 13:47:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/michaelr/public_html/classes/RSS.class.php on line 54
+[02-Aug-2010 14:27:56] PHP Fatal error:  Call to undefined function  hear() in /home/michaelr/public_html/rss.php on line 3
+[02-Aug-2010 14:29:50] PHP Parse error:  syntax error, unexpected T_PRINT in /home/michaelr/public_html/rss.php on line 4
+[02-Aug-2010 15:15:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/michaelr/public_html/rss.php:9) in /home/michaelr/public_html/rss.php on line 10
+[02-Aug-2010 15:42:09] PHP Fatal error:  Cannot use [] for reading in /home/michaelr/public_html/updateRSS.php on line 2
+[02-Aug-2010 15:43:16] PHP Fatal error:  Call to undefined function  length() in /home/michaelr/public_html/updateRSS.php on line 2
+[02-Aug-2010 16:01:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/michaelr/public_html/updateRSS.php on line 17
+[02-Aug-2010 16:02:02] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/michaelr/public_html/updateRSS.php on line 19
+[02-Aug-2010 16:11:10] PHP Parse error:  syntax error, unexpected ',' in /home/michaelr/public_html/updateRSS.php on line 4
+[02-Aug-2010 16:12:26] PHP Parse error:  syntax error, unexpected ',' in /home/michaelr/public_html/updateRSS.php on line 4
+[02-Aug-2010 16:12:51] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/michaelr/public_html/updateRSS.php on line 30
+[02-Aug-2010 16:19:43] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/michaelr/public_html/updateRSS.php on line 31
+[02-Aug-2010 16:25:21] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/michaelr/public_html/updateRSS.php on line 22
+[02-Aug-2010 16:25:21] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/michaelr/public_html/updateRSS.php on line 40
+[02-Aug-2010 16:25:51] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/michaelr/public_html/updateRSS.php on line 40
+[02-Aug-2010 16:38:33] PHP Warning:  Wrong parameter count for mysql_query() in /home/michaelr/public_html/classes/RSS.class.php on line 25
+[02-Aug-2010 16:38:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/michaelr/public_html/classes/RSS.class.php on line 27
+[02-Aug-2010 16:38:33] PHP Warning:  Wrong parameter count for mysql_query() in /home/michaelr/public_html/classes/RSS.class.php on line 52
+[02-Aug-2010 16:38:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/michaelr/public_html/classes/RSS.class.php on line 54
+[02-Aug-2010 16:41:10] PHP Parse error:  syntax error, unexpected ')' in /home/michaelr/public_html/updateRSS.php on line 28
+[02-Aug-2010 17:01:18] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/michaelr/public_html/updateRSS.php on line 29
+[02-Aug-2010 17:01:18] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/michaelr/public_html/updateRSS.php on line 30
+[02-Aug-2010 17:13:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/michaelr/public_html/updateRSS.php:27) in /home/michaelr/public_html/updateRSS.php on line 36
+[05-Aug-2010 14:34:27] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/michaelr/public_html/updateRSS.php on line 31
+[06-Aug-2010 15:53:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:53:44] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:53:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:55:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:55:18] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:55:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:58:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:58:31] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 15:58:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:00:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:00:24] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:00:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:00:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:00:57] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:00:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:01:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:01:27] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:01:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:01:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:01:30] PHP Warning:  include(http://app.feed.informer.com/digest3/UTPSQYRZ4D.html) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/michaelr/public_html/index.php on line 46
+[06-Aug-2010 16:01:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://app.feed.informer.com/digest3/UTPSQYRZ4D.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 46
+[04-Dec-2011 23:57:35] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:57:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:57:51] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:57:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:58:12] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:58:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:59:17] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[04-Dec-2011 23:59:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:02:55] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:02:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:03:35] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:03:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:03:37] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:03:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:03:42] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:03:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:32] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:35] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:43] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:43] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:47] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:04:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:06:59] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:06:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:07:06] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:07:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:08:15] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:08:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:08:18] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:08:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:09:04] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:09:04] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:14:02] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:14:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:17:05] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/michaelr/public_html/index.php on line 34
+[05-Dec-2011 00:17:09] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/michaelr/public_html/index.php on line 34
+[05-Dec-2011 00:17:29] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 34
+[05-Dec-2011 00:17:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 34
+[05-Dec-2011 00:17:29] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 34
+[05-Dec-2011 00:17:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 34
+[05-Dec-2011 00:29:26] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:29:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:33:31] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:33:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:33:34] PHP Warning:  include(/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:33:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:35:54] PHP Warning:  include(~/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:35:54] PHP Warning:  include(~/controls/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 33
+[05-Dec-2011 00:35:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '~/controls/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 33
+[24-Feb-2012 00:57:09] PHP Warning:  require(./wp-blog-header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 17
+[24-Feb-2012 00:57:09] PHP Warning:  require(./wp-blog-header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/michaelr/public_html/index.php on line 17
+[24-Feb-2012 00:57:09] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/michaelr/public_html/index.php on line 17

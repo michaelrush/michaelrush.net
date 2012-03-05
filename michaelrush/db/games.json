@@ -1,3 +1,0 @@
-// Schema: [id, displayName, summary, demo, credits[coders[], artists[], music[]], languages[], frameworks[], tools[]]
-
-{"id":"sketchalley","displayName":"Sketch Alley","summary":"Sketch Alley is an asynchronous social drawing game with cooperative and competitive game modes and unlockable content, released to...","credits":{"coders":["Michael Rush", "Robert Schwenz", "Daniel Shafer", "Gordon Liu"],"artists":["Center for Game Science at UW"]},"languages":["Actionscript 3","HMTL","PHP","SQL"],"frameworks":["Flex 4"],"Tools":["Adobe Flash Builder", "Assembla"]}

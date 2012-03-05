@@ -9,7 +9,6 @@
 *.vi
 *~
 *.sass-cache
-*.project
 
 # OS or Editor folders
 .DS_Store
@@ -35,7 +34,6 @@ dwsync.xml
 intermediate
 publish
 .idea
-build
 
 # build script local files
 build/buildinfo.properties
